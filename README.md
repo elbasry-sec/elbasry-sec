@@ -1,4 +1,4 @@
-1<h1 align="center">ELHASSAN ELBASRY | Cybersecurity Student & Ethical Hacker</h1>
+<h1 align="center">ELHASSAN ELBASRY | Cybersecurity Student & Ethical Hacker</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20Everyday-blue?style=for-the-badge"/>
